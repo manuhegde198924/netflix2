@@ -1,0 +1,34 @@
+body{
+    background-image:url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKXbz3X-jor4y9wRUxJhgoYyHaJVuiRj57pQ&usqp=CAU");
+    
+    background-color:red;
+}
+.background{
+    
+    border: 3px black;
+}
+.logo1{
+text-align:left;
+ height:10vh;
+ width:10vw;
+}
+.main1{
+    color: azure;
+    text-align:center;
+}
+.div {
+    padding: 25px 50px 75px 75px;
+  }
+  .signin {
+    border:3px red
+  }
+  .register {
+    border:3px red
+  }
+  
+    img {
+        border: 5px solid #255;
+      }
+  
+
+  
